@@ -7,9 +7,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb256762-4396-435f-b1bc-bd1c9756b386" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sajith/controllers/EmployeeDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sajith/models/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/Employee/EmployeeDetails.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/views/Employee/list.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/sajith/controllers/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sajith/controllers/HomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/views/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sajith/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sajith/controllers/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC-tutorial-1.0-SNAPSHOT/WEB-INF/classes/com/sajith/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC-tutorial-1.0-SNAPSHOT/WEB-INF/classes/com/sajith/controllers/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC-tutorial-1.0-SNAPSHOT/views/about.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC-tutorial-1.0-SNAPSHOT/views/about.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/springMVC-tutorial-1.0-SNAPSHOT/views/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/springMVC-tutorial-1.0-SNAPSHOT/views/home.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1585714264462</updated>
       <workItem from="1585714267926" duration="8300000" />
-      <workItem from="1585746494553" duration="260000" />
+      <workItem from="1585746494553" duration="5625000" />
     </task>
     <servers />
   </component>

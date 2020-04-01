@@ -12,6 +12,8 @@
 </head>
 <body>
 <h1>Hello spring MVC!!!</h1>
+<p>${emp.id}</p>
+<p>${emp.name}</p>
 
 </body>
 </html>

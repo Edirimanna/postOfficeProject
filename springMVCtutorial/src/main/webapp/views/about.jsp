@@ -12,6 +12,8 @@
 </head>
 <body>
 <h1>HEllo About</h1>
+<h2>${emp1.id}</h2>
+<h2>${emp1.name}</h2>
 
 </body>
 </html>
